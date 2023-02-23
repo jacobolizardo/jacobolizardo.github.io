@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>102 Etiquetas HTML</title>
+    <style>
+        body{
+             background-color: antiquewhite;
+
+        }
+        h1{
+            color:black;
+
+
+        }
+        p{
+            color:black;
+
+        }
+
+
+    </style>
+  </head>
+  <body> 
+    <h1>102 Etiquetas HTML</h1>
+    <p>A continuación se presentan 102 etiquetas HTML con su descripción y un ejemplo de cómo usarlas:</p>
+    <img src="images.png">
+    <ul>
+      <li>
+        <h2>&lt;a&gt;</h2>
+        <p>Define un enlace a otra página web o a otro recurso en línea.</p>
+        <p>Ejemplo: &lt;a href="https://www.google.com"&gt;Google&lt;/a&gt;</p>
+      </li>
+      <li>
+        <h2>&lt;abbr&gt;</h2>
+        <img src="abrr.PNG">
+        <p>Define una abreviatura o acrónimo.</p>
+        <p>Ejemplo: &lt;abbr title="World Wide Web"&gt;WWW&lt;/abbr&gt;</p>
+      </li>
+      <li>
+        <h2>&lt;address&gt;</h2>
+        <img src="addres.jpg">
+        <p>Define información de contacto del autor/proprietario de un documento.</p>
+        <p>Ejemplo: &lt;address&gt;John Smith, 123 Main St, Anytown USA&lt;/address&gt;</p>
+      </li>
+      <li>
+        <h2>&lt;area&gt;</h2>
+        <img src="area.jpg">
+        <p>Define una zona activa en un mapa de imagen.</p>
+        <p>Ejemplo: &lt;area shape="rect" coords="0,0,100,100" href="pag2.html"&gt;</p>
+      </li>
+      <li>
+        <h2>&lt;article&gt;</h2>
+        <img src="articulo web.png">
+        <p>Define un artículo independiente en una página web.</p>
+        <p>Ejemplo: &lt;article&gt;&lt;h1&gt;Título del artículo&lt;/h1&gt;&lt;p&gt;Contenido del artículo.&lt;/p&gt;&lt;/article&gt;</p>
+      </li>
+      <li>
+        <h2>&lt;aside&gt;</h2>
+        <img src="aside.jpg">
+        <p>Define contenido secundario o complementario en una página web.</p>
+        <p>Ejemplo: &lt;aside&gt;Contenido relacionado con el artículo principal.&lt;/aside&gt;</p>
+      </li>
+      <li>
+        <h2>&lt;audio&gt;</h2>
+        <img src="audio.jpg">
+        <p>Define un archivo de audio que se puede reproducir en una página web.</p>
+        <p>Ejemplo: &lt;audio controls src="audio.mp3"&gt;&lt;/audio&gt;</p>
+      </li>
+      <li>
+        <h2>&lt;b&gt;</h2>
+        <img src="b.png">
+        <p>Define texto en negrita.</p>
+        <p>Ejemplo: &lt;b&gt;Texto en negrita&lt;/b&gt;</p>
+      </li>
+      <li>
+        <h2>&lt;base&gt;</h2>
+        <img src="base.jpg">
+        <p>Define la URL base para todas las URL relativas en una página web.</p>
+        <p>Ejemplo: &lt;base href="https://www.example.com/"&gt;</p>
+      </li>
+      <li>
+        <h2>&lt;bdi&gt;</h2>
+        <img src="bdi.jpg">
+        <p>Define un texto que se aísla del texto que lo rodea para su formateo.</p>
+        <p>Ejemplo: &lt;p&gt;Esto es &lt;bdi&gt;un
